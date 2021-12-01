@@ -1,0 +1,29 @@
+
+.inputs{
+    border: solid;
+    background-color:white;
+    /* width: 200px;
+    height: 50px; */
+   
+}
+
+/* 
+.submit{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+  */
+ 
+
+ /* .box{
+     border: solid;
+     background-color: thistle;
+     
+ } */
+#wrapperDiv{
+    border: black;
+    border: solid;
+    background-color: #f7f7f7;
+}
