@@ -2,20 +2,21 @@
 .inputs{
     border: solid;
     background-color:white;
-    /* width: 200px;
-    height: 50px; */
+    
+    height: 50px;
    
 }
 
-/* 
+
 .submit{
     padding-top: 10px;
-    display: flex;
-    justify-content: center;
+   
     
 }
-  */
  
+ .button{
+    padding-top: 10px;
+ }
 
  /* .box{
      border: solid;
@@ -27,3 +28,4 @@
     border: solid;
     background-color: #f7f7f7;
 }
+
